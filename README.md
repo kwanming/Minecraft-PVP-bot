@@ -18,10 +18,6 @@ Train an AI bot to play Minecraft PvP using Deep Reinforcement Learning (PPO alg
 - 📊 **TensorBoard Integration** - Monitor training progress in real-time
 - 🔧 **Easy Setup** - Get started in under 5 minutes
 
-## 🎥 Demo
-
-> Watch the bot learn to fight over time! (Add your demo video/GIF here)
-
 ## 📋 Table of Contents
 
 - [How It Works](#how-it-works)
