@@ -6,7 +6,6 @@ Minecraft Deep Reinforcement Learning PVP AI bot
 Train an AI bot to play Minecraft PvP using Deep Reinforcement Learning (PPO algorithm). The bot learns by watching the screen and controlling the game directly - no mods or server plugins required!
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
 ## ✨ Features
